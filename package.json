@@ -1,0 +1,12 @@
+{
+  "name": "js-utility-hub",
+  "version": "1.0.0",
+  "description": "A utility package for common functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["utility", "functions", "validation"],
+  "author": "Aravind A S",
+  "license": "MIT"
+}
