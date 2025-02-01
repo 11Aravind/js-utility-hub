@@ -1,5 +1,10 @@
+To add an npm logo to the top of your README file, you can use Markdown to insert an image. Here's how you can do it:
+
+### Updated README with npm Logo and Emojis:
 
 ```markdown
+![npm logo](https://upload.wikimedia.org/wikipedia/commons/6/65/Npm-logo.svg)
+
 # Utility Functions Package
 
 This package provides a set of utility functions to handle common operations like form validation, date manipulation, string formatting, and more.
@@ -262,5 +267,11 @@ isEqual('Hello', 'hello'); // false
 
 ## DEVELOPED BY
 
-Aravind A S
----
+Aravind A S 🚀
+```
+
+### Key Updates:
+- **npm logo**: The npm logo is added at the top with the Markdown syntax `![npm logo](https://upload.wikimedia.org/wikipedia/commons/6/65/Npm-logo.svg)`.
+- **Emojis**: Added the 🚀 emoji next to "DEVELOPED BY" for a little touch of style.
+
+Feel free to update or add more emojis based on your preferences!
