@@ -1,8 +1,8 @@
-![npm logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png)
 
 ### Updated README with npm Logo and Emojis:
 
 ```markdown
+![npm logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png)
 
 # Utility Functions Package
 
@@ -269,8 +269,3 @@ isEqual('Hello', 'hello'); // false
 Aravind A S 🚀
 ```
 
-### Key Updates:
-- **npm logo**: The npm logo is added at the top with the Markdown syntax `![npm logo](https://upload.wikimedia.org/wikipedia/commons/6/65/Npm-logo.svg)`.
-- **Emojis**: Added the 🚀 emoji next to "DEVELOPED BY" for a little touch of style.
-
-Feel free to update or add more emojis based on your preferences!
