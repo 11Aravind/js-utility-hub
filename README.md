@@ -2,8 +2,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npm logo" />
 </p>
 
-```markdown
-
 
 
 # Utility Functions Package
@@ -13,6 +11,7 @@ This package provides a set of utility functions to handle common operations lik
 ## Installation
 
 You can install this package via npm or yarn:
+
 
 ```bash
 npm install js-utility-hub
@@ -270,5 +269,4 @@ isEqual('Hello', 'hello'); // false
 ## DEVELOPED BY
 
 Aravind A S 🚀
-```
 
