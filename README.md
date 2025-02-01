@@ -2,7 +2,10 @@
 ### Updated README with npm Logo and Emojis:
 
 ```markdown
-![npm logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png)
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npm logo" />
+</p>
 
 # Utility Functions Package
 
@@ -14,6 +17,7 @@ You can install this package via npm or yarn:
 
 ```bash
 npm install js-utility-hub
+
 ```
 
 or
