@@ -9,13 +9,13 @@ This package provides a set of utility functions to handle common operations lik
 You can install this package via npm or yarn:
 
 ```bash
-npm install <your-package-name>
+npm install js-utility-hub
 ```
 
 or
 
 ```bash
-yarn add <your-package-name>
+yarn add js-utility-hub
 ```
 
 ## Functions
